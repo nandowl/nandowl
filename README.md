@@ -38,7 +38,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 Atualmente estou estudando Desenvolvimento Web com as tecnologias listadas acima.
-Não possuo experiência profissional na area mas possuo expriência de estudos que podem ser consultados dentro dos repositórios.
+Não possuo experiência profissional na area mas possuo expriência de estudos que podem ser consultadas dentro dos repositórios.
 
 Estou em busca de uma oportunidade para ingressar no mercado de trabalho como Desenvolvedor Front-End React!
 Se souber de alguma coisa ou puder me indicar, eu agradeço demais!
