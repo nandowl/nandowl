@@ -32,7 +32,7 @@
 <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img alt="MondoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
 ---------------------------------------------------------------------------------------------------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandowl)](https://github.com/nandowl/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandowl&theme=merko&show_icons=true&title_color=FFA500&icon_color=FFA500&border_color=FFA500)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------
